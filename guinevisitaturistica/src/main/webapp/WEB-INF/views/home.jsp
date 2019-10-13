@@ -21,7 +21,7 @@
           <li>aproximadamente 2 mil habitantes.</li>
           <li>Superficie total 36 120 km2</li>
           <li>conolizado pelo Portugal</li> 
-          <li>dinheiro Franc CFA </li>
+          <li>dinheiro Franc cfa </li>
         </ul>
         <p>Guiné-Bissau, oficialmente República da Guiné-Bissau, é um país da África Ocidental que faz fronteira com o Senegal ao norte, Guiné ao sul e ao leste e com o Oceano Atlântico a oeste. O território guineense abrange 36.125 quilómetros quadrados de área, com uma população estimada de 1,6 milhão de pessoas.</p>
       </div>
