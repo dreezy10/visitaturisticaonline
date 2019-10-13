@@ -1,0 +1,61 @@
+/*!
+ * Start Bootstrap - Modern Business (https://startbootstrap.com/template-overviews/modern-business)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
+ */
+ 
+ html{
+ height:100%;
+ }
+body {
+  padding-top: 56px;
+  height: 100%;
+}
+
+
+
+
+
+.carousel-item {
+  height: 65vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+
+/*
+custum css styles
+*/
+
+.wrapper{
+	
+	min-height: 100%;
+	position: relative;
+}
+
+.content{
+	
+	padding-bottom: 60px;
+}
+
+.bg-color-changed {
+	
+	background-color:#fed136;
+}
+
+.hotel_title{
+	 margin: 0 5px 100px 5px;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
